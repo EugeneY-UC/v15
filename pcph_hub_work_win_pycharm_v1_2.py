@@ -14,8 +14,6 @@ import os
 import can
 
 
-
-
 CSV_FOLDER = Path("CSV")
 
 node_fields = "ID", "Charger Node Name", "Charger Node Type",\
